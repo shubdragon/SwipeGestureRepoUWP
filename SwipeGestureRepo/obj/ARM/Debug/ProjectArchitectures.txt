@@ -1,1 +1,0 @@
-C:\Users\ps201\Documents\Visual Studio 2015\Projects\SwipeGestureRepo\SwipeGestureRepo\SwipeGestureRepo.csproj;arm
